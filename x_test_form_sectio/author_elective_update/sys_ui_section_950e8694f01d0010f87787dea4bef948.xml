@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Section 2" section_id="950e8694f01d0010f87787dea4bef948" sys_domain="global" table="x_test_form_sectio_table1" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>col1</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-11-19 19:16:18</sys_created_on>
+            <sys_id>871e4250f01d0010f87787dea4bef9bd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Section 2" display_value="Section 2" name="x_test_form_sectio_table1" sys_domain="global" view="Default view">950e8694f01d0010f87787dea4bef948</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-11-19 19:16:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>Section 2</caption>
+            <header>false</header>
+            <name>x_test_form_sectio_table1</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-11-19 19:15:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>950e8694f01d0010f87787dea4bef948</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Section 2</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Test Form Sections" source="x_test_form_sectio">fe5c4a54f0990010f87787dea4bef911</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Test Form Sections">fe5c4a54f0990010f87787dea4bef911</sys_scope>
+            <sys_update_name>sys_ui_section_950e8694f01d0010f87787dea4bef948</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-11-19 19:15:55</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Test Form Sections">fe5c4a54f0990010f87787dea4bef911</application>
+        <file_path/>
+        <instance_id>aa6d7198f0110010f87787dea4bef925</instance_id>
+        <instance_name>instance-aa6d7198f0110010f87787dea4bef925</instance_name>
+        <name>sys_ui_section_950e8694f01d0010f87787dea4bef948</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Section 2" section_id="950e8694f01d0010f87787dea4bef948" sys_domain="global" table="x_test_form_sectio_table1" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>col1</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-11-19 19:16:18</sys_created_on>
+            <sys_id>871e4250f01d0010f87787dea4bef9bd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Section 2" display_value="Section 2" name="x_test_form_sectio_table1" sys_domain="global" view="Default view">950e8694f01d0010f87787dea4bef948</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-11-19 19:16:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Section 2</caption>
+            <header>false</header>
+            <name>x_test_form_sectio_table1</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-11-19 19:15:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>950e8694f01d0010f87787dea4bef948</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Section 2</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Test Form Sections" source="x_test_form_sectio">fe5c4a54f0990010f87787dea4bef911</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Test Form Sections">fe5c4a54f0990010f87787dea4bef911</sys_scope>
+            <sys_update_name>sys_ui_section_950e8694f01d0010f87787dea4bef948</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-11-19 19:15:55</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>]]></payload>
+        <payload_hash>1025631618</payload_hash>
+        <record_name>table1</record_name>
+        <reverted_from/>
+        <source>f3a21a54f09d0010f87787dea4bef9da</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-19 19:36:28</sys_created_on>
+        <sys_id>deb2da54f09d0010f87787dea4bef91d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16e852a8c800000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-19 19:36:28</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>5eb2da54a69d001042415bf94b7c971d</update_guid>
+        <update_guid_history>5eb2da54a69d001042415bf94b7c971d:0,90b25a54f29d0010b046ad19e5cfd936:1553372466,29721ed06c9d001095bde89ea89fa8b8:0,15625ad0499d00105b7e68d36cfeea45:1553372466,4b1e4250f71d00101f6f9c99d56b4ebe:-534086530</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-19 19:36:53</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>450f56b123414588a2ad7f6ab01d7810</sys_id>
+        <sys_metadata>950e8694f01d0010f87787dea4bef948</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Section 2</sys_name>
+        <sys_package display_value="Test Form Sections" source="x_test_form_sectio">fe5c4a54f0990010f87787dea4bef911</sys_package>
+        <sys_parent display_value="table1">cf1dc2d4f0d90010f87787dea4bef977</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Test Form Sections">fe5c4a54f0990010f87787dea4bef911</sys_scope>
+        <sys_scope_delete display_value="">410e0555e28249fe9bea2717b749a519</sys_scope_delete>
+        <sys_update_name>sys_ui_section_950e8694f01d0010f87787dea4bef948</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_950e8694f01d0010f87787dea4bef948">deb2da54f09d0010f87787dea4bef91d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-19 19:36:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

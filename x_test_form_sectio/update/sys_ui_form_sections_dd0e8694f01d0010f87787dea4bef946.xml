@@ -14,20 +14,6 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-11-19 19:15:54</sys_updated_on>
         </sys_ui_form_section>
-        <sys_ui_form_section action="INSERT_OR_UPDATE">
-            <position>1</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-11-19 19:15:55</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>110e02d4f01d0010f87787dea4bef93f</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_overrides/>
-            <sys_ui_form display_value="x_test_form_sectio_table1" name="x_test_form_sectio_table1" sys_domain="global" view="Default view">dd0e8694f01d0010f87787dea4bef946</sys_ui_form>
-            <sys_ui_section caption="Section 2" display_value="Section 2" name="x_test_form_sectio_table1" sys_domain="global" view="Default view">950e8694f01d0010f87787dea4bef948</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-11-19 19:15:55</sys_updated_on>
-        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_test_form_sectio_table1</name>
             <roles/>
